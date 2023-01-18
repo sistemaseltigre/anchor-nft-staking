@@ -3,6 +3,7 @@ seeds = false
 skip-lint = false
 [programs.localnet]
 anchor_nft_staking = "Ha25bLSF75gWeMqFtqFCzhexZh6j3fXXHeoTJYccHoLJ"
+lootbox_program = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
 [registry]
 url = "https://api.apr.dev"
